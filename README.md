@@ -137,9 +137,8 @@ GPS and magnetometer physically separated from power traces. Compass accuracy im
 
 | Build | Setup |
 |:---:|:---:|
-| ![Drone Build](media/drone_build.jpg) | ![Betaflight](media/betaflight_setup.jpg) |
+| ![Drone Build](1000135433.jpg) | ![Betaflight](1000135434.jpg) |
 
-> *(Replace image paths with your actual media)*
 
 ---
 
