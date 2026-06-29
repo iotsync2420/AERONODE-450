@@ -3,9 +3,7 @@
 <div align="center">
 
 
-# ⬡ AERO NODE-450
-
-### `ESP32-BASED AUTONOMOUS QUADCOPTER PLATFORM`
+### `ESP32-BASED AUTONOMOUS QUADCOPTER`
 
 ![Status](https://img.shields.io/badge/MISSION_STATUS-FLIGHT__READY-00f5c4?style=flat-square&labelColor=030d1a)
 ![Cost](https://img.shields.io/badge/BUILD_COST-₹9000-00f5c4?style=flat-square&labelColor=030d1a)
